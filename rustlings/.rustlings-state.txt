@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-functions1
+enums3
 
 intro1
 intro2
@@ -10,8 +10,21 @@ variables3
 variables4
 variables5
 variables6
+primitive_types1
+primitive_types2
+primitive_types3
+primitive_types4
+primitive_types5
+primitive_types6
 move_semantics1
 move_semantics2
 move_semantics3
 move_semantics4
 move_semantics5
+structs1
+structs2
+structs3
+enums1
+enums2
+strings1
+strings2
