@@ -1,1 +1,1 @@
-C:\Users\nasse\Desktop\Principles\ Lab\rustlings\target\debug\clippy2.exe: C:\Users\nasse\Desktop\Principles\ Lab\rustlings\exercises\22_clippy\clippy2.rs
+C:\Users\nasse\Desktop\Spring\ 2025\Principles-of-Programming-Languages\rustlings\target\debug\clippy2.exe: C:\Users\nasse\Desktop\Spring\ 2025\Principles-of-Programming-Languages\rustlings\exercises\22_clippy\clippy2.rs

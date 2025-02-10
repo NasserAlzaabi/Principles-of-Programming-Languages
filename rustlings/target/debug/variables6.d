@@ -1,1 +1,1 @@
-C:\Users\nasse\Desktop\Principles\ Lab\rustlings\target\debug\variables6.exe: C:\Users\nasse\Desktop\Principles\ Lab\rustlings\exercises\01_variables\variables6.rs
+C:\Users\nasse\Desktop\Spring\ 2025\Principles-of-Programming-Languages\rustlings\target\debug\variables6.exe: C:\Users\nasse\Desktop\Spring\ 2025\Principles-of-Programming-Languages\rustlings\exercises\01_variables\variables6.rs

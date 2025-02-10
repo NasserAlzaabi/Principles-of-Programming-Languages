@@ -1,1 +1,1 @@
-C:\Users\nasse\Desktop\Principles\ Lab\rustlings\target\debug\quiz2.exe: C:\Users\nasse\Desktop\Principles\ Lab\rustlings\exercises\quizzes\quiz2.rs
+C:\Users\nasse\Desktop\Spring\ 2025\Principles-of-Programming-Languages\rustlings\target\debug\quiz2.exe: C:\Users\nasse\Desktop\Spring\ 2025\Principles-of-Programming-Languages\rustlings\exercises\quizzes\quiz2.rs
