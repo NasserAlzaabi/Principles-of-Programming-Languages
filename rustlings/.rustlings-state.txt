@@ -22,6 +22,8 @@ primitive_types3
 primitive_types4
 primitive_types5
 primitive_types6
+vecs1
+vecs2
 move_semantics1
 move_semantics2
 move_semantics3
@@ -38,3 +40,4 @@ strings2
 strings3
 options1
 options2
+generics1
