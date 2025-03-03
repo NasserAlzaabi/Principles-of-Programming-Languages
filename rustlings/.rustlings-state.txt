@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-errors6
+tests3
 
 intro1
 intro2
@@ -38,6 +38,9 @@ enums3
 strings1
 strings2
 strings3
+hashmaps1
+hashmaps2
+hashmaps3
 options1
 options2
 errors1
@@ -45,4 +48,7 @@ errors2
 errors3
 errors4
 errors5
+errors6
 generics1
+tests1
+tests2
