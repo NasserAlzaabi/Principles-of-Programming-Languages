@@ -1,1 +1,1 @@
-C:\Users\nasse\Desktop\Spring\ 2025\Principles-of-Programming-Languages\rustlings\target\debug\functions2.exe: C:\Users\nasse\Desktop\Spring\ 2025\Principles-of-Programming-Languages\rustlings\exercises\02_functions\functions2.rs
+C:\Users\user\Desktop\Projects\Principles-of-Programming-Languages\rustlings\target\debug\functions2.exe: C:\Users\user\Desktop\Projects\Principles-of-Programming-Languages\rustlings\exercises\02_functions\functions2.rs

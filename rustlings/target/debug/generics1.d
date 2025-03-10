@@ -1,1 +1,1 @@
-C:\Users\nasse\Desktop\Spring\ 2025\Principles-of-Programming-Languages\rustlings\target\debug\generics1.exe: C:\Users\nasse\Desktop\Spring\ 2025\Principles-of-Programming-Languages\rustlings\exercises\14_generics\generics1.rs
+C:\Users\user\Desktop\Projects\Principles-of-Programming-Languages\rustlings\target\debug\generics1.exe: C:\Users\user\Desktop\Projects\Principles-of-Programming-Languages\rustlings\exercises\14_generics\generics1.rs

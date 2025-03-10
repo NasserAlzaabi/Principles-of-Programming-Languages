@@ -1,0 +1,1 @@
+C:\Users\user\Desktop\Projects\Principles-of-Programming-Languages\rustlings\target\debug\traits1.exe: C:\Users\user\Desktop\Projects\Principles-of-Programming-Languages\rustlings\exercises\15_traits\traits1.rs
