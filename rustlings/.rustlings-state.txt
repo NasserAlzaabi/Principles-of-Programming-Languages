@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-traits5
+lifetimes2
 
 intro1
 intro2
@@ -38,6 +38,8 @@ enums3
 strings1
 strings2
 strings3
+modules1
+modules2
 hashmaps1
 hashmaps2
 hashmaps3
@@ -54,6 +56,8 @@ traits1
 traits2
 traits3
 traits4
+traits5
+lifetimes1
 tests1
 tests2
 tests3

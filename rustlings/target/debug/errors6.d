@@ -1,1 +1,1 @@
-C:\Users\user\Desktop\Projects\Principles-of-Programming-Languages\rustlings\target\debug\errors6.exe: C:\Users\user\Desktop\Projects\Principles-of-Programming-Languages\rustlings\exercises\13_error_handling\errors6.rs
+C:\Users\nasse\Desktop\Spring\ 2025\Principles-of-Programming-Languages\rustlings\target\debug\errors6.exe: C:\Users\nasse\Desktop\Spring\ 2025\Principles-of-Programming-Languages\rustlings\exercises\13_error_handling\errors6.rs
