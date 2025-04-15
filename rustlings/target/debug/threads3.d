@@ -1,0 +1,1 @@
+C:\Users\nasse\Desktop\Spring\ 2025\Principles-of-Programming-Languages\rustlings\target\debug\threads3.exe: C:\Users\nasse\Desktop\Spring\ 2025\Principles-of-Programming-Languages\rustlings\exercises\20_threads\threads3.rs

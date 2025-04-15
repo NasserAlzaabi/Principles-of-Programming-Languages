@@ -10,6 +10,7 @@ use std::{
 
 fn main() {
     let mut handles = Vec::new();
+
     for i in 0..10 {
         let handle = thread::spawn(move || {
             let start = Instant::now();
@@ -22,8 +23,11 @@ fn main() {
 
     let mut results = Vec::new();
     for handle in handles {
-        // TODO: Collect the results of all threads into the `results` vector.
-        // Use the `JoinHandle` struct which is returned by `thread::spawn`.
+        // Join each thread and collect the result.
+        match handle.join() {
+            Ok(result) => results.push(result),
+            Err(_) => panic!("A thread panicked!"),
+        }
     }
 
     if results.len() != 10 {
@@ -35,3 +39,4 @@ fn main() {
         println!("Thread {i} took {result}ms");
     }
 }
+
